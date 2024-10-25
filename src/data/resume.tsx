@@ -218,7 +218,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/smile.png",
+      image: "/Smile.png",
     },
     {
       title: "Advanced Image Processing Techniques for Feature Detection",
